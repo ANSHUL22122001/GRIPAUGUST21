@@ -1,0 +1,30 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(253, 253, 151);
+    background-color: rgba(0,0,0,0.7);
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+    font-family: 'Lobster', cursive;
+
+}
+.navbar-brand:hover{
+    color: black;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-family: 'Rubik', sans-serif;
+}
+.nav-link:hover{
+    transform: translateY(-5px);
+    color: black;
+} */
